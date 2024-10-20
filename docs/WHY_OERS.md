@@ -2,7 +2,7 @@
 
 ## Heritage of OERs
 
-![Open Educational Resources Heritage](../whitepaper/OER-Heritage.png)
+![Open Educational Resources Heritage](../docs\images\OER-Heritage.png)
 
 Open Educational Resources (OERs) have a rich history rooted in the principles of access, collaboration, and knowledge sharing. Originating in the late 1990s, the OER movement has grown significantly, driven by the belief that education should be freely accessible to all. This foundational heritage aligns with our commitment to open-source values and sustainable educational practices.
 
@@ -18,7 +18,7 @@ By centering our efforts on OERs, we aim to leverage this heritage to build inno
 
 ## Advantages of OERs
 
-![Benefits of Open Educational Resources](./whitepaper/Benefits%20of%20Open%20Educational%20Resources.png)
+![Benefits of Open Educational Resources](../docs\images\OER-Benefits.png)
 
 1. **Accessibility**: OERs break down barriers to education by providing free and open access to learning materials.
 2. **Flexibility**: Educators can adapt and customize OERs to meet specific learning needs and contexts.
