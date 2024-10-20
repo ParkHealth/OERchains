@@ -38,6 +38,17 @@ To establish cutting-edge infrastructure and standards that democratize knowledg
 - User-friendly tools for creating, accessing, and publishing OERs
 - Advanced citation and originality evaluation systems
 
+## 📚 Additional Resources
+
+To get a deeper understanding of the project and how to contribute, please review these additional documents:
+
+- [CONTRIBUTING.md](./CONTRIBUTING.md): Guidelines for contributing to the project, including coding standards, pull request process, and more.
+- [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md): Our community standards and expectations for all contributors.
+- [ARCHITECTURE.md](./docs/architecture/ARCHITECTURE.md): An overview of the project's technical architecture and design principles.
+- [ROADMAP.md](./ROADMAP.md): Our project roadmap and future plans.
+
+These documents are crucial for anyone looking to contribute to or understand the OERchains project in depth. We encourage all potential contributors to review them before getting started.
+
 ## 🤝 Join the Revolution!
 We're looking for passionate individuals who want to make a real difference in education, technology, and knowledge sharing. Are you ready to shape the future of learning?
 
