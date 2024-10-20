@@ -64,9 +64,13 @@ By joining OERchains, you're not just working on a project. You're:
 3. Join our [Discussions](https://github.com/rolodexter/OERchains/discussions) to share ideas and connect with the team
 4. Spread the word! Share OERchains with your network
 
-## 📬 Contact Us
-Have questions or ideas? Reach out to us at [contact@oerchains.org](mailto:contact@oerchains.org)
+## 📬 Connect/Contact
+Join the conversation and stay updated:
+- Twitter: [@joemaristela](https://x.com/joemaristela)
+- LinkedIn: [Joe Maristela](https://linkedin.com/in/rolodexter)
+- Telegram: [ParkHealthOER](https://t.me/parkhealthoer)
 
+For project-related discussions, please use our [GitHub Discussions](https://github.com/rolodexter/OERchains/discussions) page.
 ---
 
 Join us in redefining the future of education and knowledge sharing. Together, we can create a world where learning knows no bounds!
