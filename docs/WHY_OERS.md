@@ -58,5 +58,3 @@ OERchains aims to complement and enhance the efforts of existing OER organizatio
 5. **OpenStax Integration**:
    - Collaborate with OpenStax to incorporate their free, peer-reviewed textbooks into the OERchains ecosystem.
    - Develop plugins or APIs that allow seamless integration between OpenStax content and the OERchains platform.
-
-By integrating with these established organizations, OERchains aims to leverage existing networks and resources while offering innovative blockchain-based solutions to common challenges in OER creation, distribution, and management. This approach will help OERchains gain traction in the OER community while contributing to the broader goals of open education and knowledge sharing.
