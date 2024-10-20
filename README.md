@@ -80,6 +80,7 @@ Join the conversation and stay updated:
 - Twitter: [@joemaristela](https://x.com/joemaristela)
 - LinkedIn: [Joe Maristela](https://linkedin.com/in/rolodexter)
 - Telegram: [ParkHealthOER](https://t.me/parkhealthoer)
+- Perplexity Space: [OERchains on Perplexity](https://www.perplexity.ai/collections/oerchains-zaQ1LzGqRdKVEAeSX3KZ0w)
 
 For project-related discussions, please use our [GitHub Discussions](https://github.com/rolodexter/OERchains/discussions) page.
 ---
