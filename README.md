@@ -6,6 +6,12 @@ OERchains aims to create a decentralized, federated ecosystem for Open Education
 ## 🌟 Our Mission
 To establish cutting-edge infrastructure and standards that democratize knowledge creation, empower educators and learners, and open up a world of learning opportunities through blockchain technology.
 
+## Why OERs?
+
+OERchains focuses specifically on Open Educational Resources (OERs) due to their established heritage in open knowledge sharing and their alignment with our core values of open source principles, regenerative economics, and sustainable development. 
+
+[Learn more about why we chose to focus on OERs](./docs/WHY_OERS.md)
+
 ## 💡 Key Project Aims
 
 ### 1. Federated Blockchain Protocol
