@@ -87,7 +87,28 @@ The architecture of OERchains is designed to enable a **decentralized, federated
 ---
 
 ## 🎨 Architectural Diagram
-> [Insert Diagram] Include a visual representation of the architecture with components like federated chains, smart contracts, APIs, and metadata standards.
+```mermaid
+graph TD
+    A[OERchains Ecosystem] --> B[Decentralized Blockchain Network]
+    B --> C[Smart Contracts for Attribution & Licensing]
+    B --> D[Cross-Chain Protocols (Ethereum, Polkadot, Cosmos)]
+    B --> E[Tokenomics (Rewards & Incentives)]
+    A --> F[APIs for External Applications]
+    A --> G[Decentralized Storage (IPFS, Arweave)]
+    F --> H[External Applications]
+    F --> I[Integration with Hugging Face Dataset]
+    G --> J[Storage of OER Resources]
+    H --> K[Educators, Learners, and Content Creators]
+    I --> L[Access Educational Data via LLMs]
+    K --> M[Publish Educational Content to Blockchain]
+    L --> N[Query & Use Educational Data from Dataset]
+    M --> C
+    N --> L
+    E --> O[Tokens for Contributors]
+
+    classDef external fill:#f9f,stroke:#333,stroke-width:2px;
+    class H,I,L external;
+```
 
 ---
 
