@@ -41,6 +41,7 @@ Each piece of educational art will be attributed to its creator using blockchain
 ### 3. **Integration with Other Educational Resources**
 Educational art will be seamlessly integrated with other educational resources like textbooks, research papers, and video tutorials. By maintaining a unified metadata standard, the content can be linked together to create rich, interactive educational experiences.
 
+### 4. **Collaborative Creation**
 Educators and content creators can collaborate to develop educational art by sharing their creations on the OERchains platform. A community-driven ecosystem will encourage contributions, revisions, and feedback to continuously improve and expand available resources.
 
 ## 🔄 Interactivity with Blockchain
